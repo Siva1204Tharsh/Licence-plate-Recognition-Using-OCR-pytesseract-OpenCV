@@ -67,6 +67,8 @@ cv2.imwrite('license_plate with text22.jpg', img)
 
 print(text)
 
+# cv2.waitKey(0)
+
 
 
 
